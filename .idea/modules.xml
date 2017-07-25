@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NoLogOff.iml" filepath="$PROJECT_DIR$/.idea/NoLogOff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonAndQt/.idea/PythonAndQt.iml" filepath="$PROJECT_DIR$/../PythonAndQt/.idea/PythonAndQt.iml" />
     </modules>
   </component>
 </project>
